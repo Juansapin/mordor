@@ -6,6 +6,13 @@ import numpy as np
 import copy
 import io
 import base64
+
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+import mesa
+
 from pathlib import Path
 
 
