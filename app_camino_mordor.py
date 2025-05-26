@@ -8,7 +8,7 @@ import io
 import base64
 from pathlib import Path
 
-import mesa
+
 import random
 
 
