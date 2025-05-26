@@ -7,7 +7,7 @@ import copy
 import io
 import base64
 from pathlib import Path
-import matplotlib.pyplot as plt
+
 import mesa
 import random
 
