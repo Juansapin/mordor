@@ -1,6 +1,0 @@
-streamlit
-mesa==3.1.5
-matplotlib==3.7.1
-numpy
-pillow
-scipy
