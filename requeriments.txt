@@ -1,5 +1,5 @@
 streamlit
-mesa
+mesa==3.1.5
 matplotlib
 numpy
 pillow
